@@ -1,10 +1,10 @@
 {
     "project": {
-      "name": "eilertsen",
-      "title": "Aarhus braetspilsfestival bibliotek"
+      "name": "jyhne",
+      "title": "Brætspillers bibliotek"
     },
     "boardgamegeek": {
-      "user_name": "eilertsen",
+      "user_name": "jyhne",
       "extra_params": {
         "own": 1
       }
@@ -12,7 +12,7 @@
     "algolia": {
       "app_id": "00GQDHDL1N",
       "api_key_search_only": "b20c66c0a5491f92a4eb7366ebfa1c3b",
-      "index_name": "eilertsen",
+      "index_name": "jyhne",
       "hits_per_page": 42,
       "sort_by": "asc(rank)"
     }
